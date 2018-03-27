@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace SalesTax.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class SaleTest
     {
         [TestMethod]
         public void TestOneLine()
